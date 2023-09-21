@@ -50,6 +50,13 @@ Live Demo: [Link](https://full-stack-db-react-video-app.netlify.app/) <!-- targe
 
 ![fowobi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fowobi&show_icons=true&theme=dark)
 
+## Codewars Profile
+
+Check out my Codewars profile to see my coding challenges and solutions:
+
+[![fowobi | Codewars](https://www.codewars.com/users/fowobi/badges/large)](https://www.codewars.com/users/fowobi)
+
+
 ### 📫 Contact
 - LinkedIn:[tosin](https://linkedin.com/in/tosin-odunuga) <!-- target="_blank" -->
 - Twitter: [@fowobi21](https://twitter.com/tosigno) <!-- target="_blank" -->
