@@ -44,17 +44,18 @@ Live Demo: [Link](https://full-stack-db-react-video-app.netlify.app/) <!-- targe
   Description: My Personal Portfolio showcasing my projects and skills.
   GitHub Repo:[Link](https://github.com/fowobi/Portfolio-01) <!-- target="_blank" -->
    Live Demo: [Link](https://myportfolio-tosin-01.netlify.app/) <!-- target="_blank" -->
-  
 
-### 📊 GitHub Stats
 
-![fowobi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fowobi&show_icons=true&theme=dark)
-
-## Codewars Profile
+  ## Codewars Profile
 
 Check out my Codewars profile to see my coding challenges and solutions:
 
 [![fowobi | Codewars](https://www.codewars.com/users/fowobi/badges/large)](https://www.codewars.com/users/fowobi)
+
+
+### 📊 GitHub Stats
+
+![fowobi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fowobi&show_icons=true&theme=dark)
 
 
 ### 📫 Contact
