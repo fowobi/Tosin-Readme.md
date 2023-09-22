@@ -43,7 +43,7 @@ Live Demo: [Link](https://full-stack-db-react-video-app.netlify.app/) <!-- targe
 - **Project: My Portfolio**
   Description: My Personal Portfolio showcasing my projects and skills.
   GitHub Repo:[Link](https://github.com/fowobi/Portfolio-01) <!-- target="_blank" -->
-   Live Demo: [Link](https://myportfolio-tosin-01.netlify.app/) <!-- target="_blank" -->
+   Live Demo: [Link](https://tosyn-new-portfolio.netlify.app/) <!-- target="_blank" -->
 
 
   ## Codewars Profile
