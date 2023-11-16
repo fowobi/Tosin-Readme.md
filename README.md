@@ -37,7 +37,7 @@ I'm a passionate software developer who loves to building,design,developed web a
 - **Project: Video Recommendation**
   Description: A full-stack Video Recommendation website built with React,Node.js and SQL.
   GitHub Repo: [Link](https://github.com/fowobi/Full-Stack-Project-Assessment/tree/level-300) <!-- target="_blank" -->
-Live Demo: [Link](https://full-stack-db-react-video-app.netlify.app/) <!-- target="_blank" -->
+Live Demo: [Link](https://tosyn-db-video-react-app.netlify.app/) <!-- target="_blank" -->
 
 
 - **Project: My Portfolio**
