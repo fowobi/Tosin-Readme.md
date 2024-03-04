@@ -11,7 +11,7 @@ I'm a passionate software developer who loves to building,design,developed web a
 |------------------------------------|-------------------------------------|
 | Front-end Development              | HTML, CSS, JavaScript               |
 | Back-end Development               | Node.js.                            |
-| Database Management                | SQL.                                 |
+| Database Management                | SQL and AWS ,Cloud Computing.       |
 | Frameworks & Libraries             | React, Express.js                   |
 | Version Control                    | Git, GitHub                         |
 
