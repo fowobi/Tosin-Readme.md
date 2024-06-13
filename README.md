@@ -2,7 +2,7 @@
 ### Hi there, I'm Tosin 👋
 
 I'm a passionate software developer who loves to building,design,developed web applications and exploring new technologies.
-[Download My Resume](https://drive.google.com/file/d/16MuMW2-Ay_vOFjcsyoIlttY4_J5tcSmp/view?usp=sharing) <!-- target="_blank" -->
+[Download My Resume](https://drive.google.com/file/d/10aNlgzfes_jZuh-4UcUHdjO6s8EQhKAu/view) target="_blank"
 
 
 ### 💼 Technical Skills
@@ -36,7 +36,7 @@ I'm a passionate software developer who loves to building,design,developed web a
 
 - **Project: Video Recommendation**
   Description: A full-stack Video Recommendation website built with React,Node.js and SQL.
-  GitHub Repo: [Link](https://github.com/fowobi/Full-Stack-Project-Assessment/tree/level-300) <!-- target="_blank" -->
+  GitHub Repo: [Link](https://github.com/fowobi/tosyn-video-react-app) <!-- target="_blank" -->
 Live Demo: [Link](https://tosyn-db-video-react-app.netlify.app/) <!-- target="_blank" -->
 
 
