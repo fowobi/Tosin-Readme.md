@@ -1,8 +1,8 @@
 
 ### Hi there, I'm Tosin 👋
 
-I'm a passionate software developer who loves to building,design,developed web applications and exploring new technologies.
-[Download My Resume](https://drive.google.com/file/d/10aNlgzfes_jZuh-4UcUHdjO6s8EQhKAu/view) target="_blank"
+I'm a passionate software developer who loves to build, design, develop web applications and explore new technologies.
+[Download My Resume](https://drive.google.com/file/d/1vqMcDORIYwSEOpLtZDkFm6CUTs6ucgRH/view?usp=sharing) target="_blank"
 
 
 ### 💼 Technical Skills
@@ -11,7 +11,7 @@ I'm a passionate software developer who loves to building,design,developed web a
 |------------------------------------|-------------------------------------|
 | Front-end Development              | HTML, CSS, JavaScript               |
 | Back-end Development               | Node.js.                            |
-| Database Management                | SQL and AWS ,Cloud Computing.       |
+| Database Management                | SQL and AWS, Cloud Computing.       |
 | Frameworks & Libraries             | React, Express.js                   |
 | Version Control                    | Git, GitHub                         |
 
@@ -41,7 +41,7 @@ Live Demo: [Link](https://tosyn-db-video-react-app.netlify.app/) <!-- target="_b
 
 
 - **Project: My Portfolio**
-  Description: My Personal Portfolio showcasing my projects and skills.
+  Description: My Portfolio showcases my projects and skills.
   GitHub Repo:[Link](https://github.com/fowobi/new-portfolio) <!-- target="_blank" -->
    Live Demo: [Link](https://tosyn-new-portfolio.netlify.app/) <!-- target="_blank" -->
 
